@@ -5,13 +5,13 @@ I'm a senior full-stack engineer born and raised in San Francisco. I was an earl
 
 [Twitter][twitter] | [Twitch][twitch] | [LinkedIn][linkedin]
 
-_💬 I speak English and a little Chinese. 我会说英文，也会说一点中文。_
+_💬 I speak English and a little Chinese. 💬 我会说英文，也会说一点中文。_
 
 ### Jobs
-- [<img src="https://twos.dev/img/yourbase.293b8634.svg" alt="YourBase logo" width="16" height="16" />][yourbase] **[YourBase][yourbase]** ([@yourbase][yourbase-github]), 2020—present
-- [<img src="https://twos.dev/img/splitsio.0573cf83.svg" alt="Splits.io logo" width="16" height="16" />][splits.io] **[Splits.io][splits.io]** ([@glacials/splits-io][splits.io-github]), 2019—2020
-- [<img src="https://twos.dev/img/twitch.eb306842.svg" alt="Twitch logo" width="16" height="16" />][twitch] **[Twitch][twitch]** ([@twitchtv][twitch-github]), 2014—2018
-- [<img src="https://twos.dev/img/llnl.3ca4b8a1.gif" alt="Lawrence Livermore National Laboratory logo" width="16" height="16" />][llnl] **[Lawrence Livermore National Laboratory][llnl]** ([@llnl][llnl-github]), 2010—2013
+- [<img src="https://avatars3.githubusercontent.com/u/34947937" alt="YourBase logo" width="16" height="16" />][yourbase] **[YourBase][yourbase]** ([@yourbase][yourbase-github]), 2020—present
+- [<img src="https://avatars0.githubusercontent.com/u/46408277" alt="Splits.io logo" width="16" height="16" />][splits.io] **[Splits.io][splits.io]** ([@glacials/splits-io][splits.io-github]), 2019—2020
+- [<img src="https://avatars0.githubusercontent.com/u/1795021" alt="Twitch logo" width="16" height="16" />][twitch] **[Twitch][twitch]** ([@twitchtv][twitch-github]), 2014—2018
+- [<img src="https://avatars2.githubusercontent.com/u/5921419" alt="Lawrence Livermore National Laboratory logo" width="16" height="16" />][llnl] **[Lawrence Livermore National Laboratory][llnl]** ([@llnl][llnl-github]), 2010—2013
 - I've also done some consulting work under the name **Two Esses**.
 
 See more details about my work at these companies on my website, [twos.dev][website].
