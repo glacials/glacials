@@ -21,6 +21,9 @@ See more details about my work at these companies on my website, [twos.dev][webs
 - **[Licenseland][licenseland]**, a simple way to dual-license open source software
 - **Housebot** ([@glacials/housebot][housebot-github]), a Twitch chat bot that lets chat participants vote to control your Phillips Hue lights
 
+### Talks
+You can view the talks I've done at [@glacials/talks][talks-github].
+
 ### Hobbies
 About 80% of my free time is spent playing video games. The other 20% is split between kayaking, beer, whiskey, and interior design.
 
@@ -50,3 +53,5 @@ About 80% of my free time is spent playing video games. The other 20% is split b
 [licenseland]: https://license.land
 
 [housebot-github]: https://github.com/glacials/housebot
+
+[talks-github]: https://github.com/glacials/talks
