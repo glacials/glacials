@@ -24,11 +24,8 @@ See more details about my work at these companies on my website, [twos.dev][webs
 ### Talks
 You can view the talks I've done at [@glacials/talks][talks-github].
 
-### Hobbies
-About 80% of my free time is spent playing video games. The other 20% is split between kayaking, beer, whiskey, and interior design.
-
 [website]: https://twos.dev
-[email]: mailto:qhiiyr@gmail.com
+[email]: mailto:ben@twos.dev
 [resume]: https://twos.dev/ben-carlsson-resume.pdf
 [twitter]: https://twitter.com/glcls
 [twitch]: https://twitch.tv/glacials
