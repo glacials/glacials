@@ -1,5 +1,5 @@
 ## I'm Ben 👋
-I'm a senior full-stack engineer born and raised in San Francisco. I was an early employee at Twitch and I've worked on everything from social networks to authentication-as-a-service. I live in Seattle with my wife [@gwander][summer].
+I'm a full-stack/backend engineer born and raised in San Francisco. I was an early employee at Twitch and I've worked on everything from social networks to authentication-as-a-service. I live in Seattle with my wife [@gwander][summer].
 
 [📧 Email me][email] | [📄 View my resume][resume]
 
