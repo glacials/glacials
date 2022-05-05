@@ -1,11 +1,13 @@
 ## I'm Ben 👋
-I'm a full-stack/backend engineer born and raised in San Francisco. I was an early employee at Twitch and I've worked on everything from social networks to authentication-as-a-service. I live in Seattle with my wife [@gwander][summer].
+I'm a full-stack/backend engineer born and raised in San Francisco. I was an early employee at Twitch and I've worked on everything from social networks to authentication-as-a-service. I live in Seattle with my spouse [@gwander][summer].
 
-[📧 Email me][email] | [📄 View my resume][resume]
+As of 2022-05 I'm looking for work in the climate crisis space at the staff level, with a preference towards Ruby on Rails or Node work.
+
+[🧰 See my website][website] | [📧 Email me][email] | [📄 View my resume][resume]
 
 [Twitter][twitter] | [Twitch][twitch] | [LinkedIn][linkedin]
 
-_💬 I speak English and a little Chinese. 💬 我会说英文，也会说一点中文。_
+_💬 I speak English and a little Chinese. 我会说英文，也会说一点中文。_
 
 ### Jobs
 - [<img src="https://avatars3.githubusercontent.com/u/34947937" alt="YourBase logo" width="16" height="16" />][yourbase] **[YourBase][yourbase]** ([@yourbase][yourbase-github]), 2020—present
