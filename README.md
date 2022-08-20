@@ -37,6 +37,8 @@ You can view the talks I've done at [@glacials/talks][talks-github].
 [splits.io]: https://splits.io
 [splits.io-github]: https://github.com/glacials/splits-io
 [summer]: https://github.com/gwander
+[sunpower]: https://sunpower.com
+[sunpower-github]: https://github.com/sunpower
 [talks-github]: https://github.com/glacials/talks
 [twitter]: https://twitter.com/glcls
 [twitch]: https://twitch.tv
