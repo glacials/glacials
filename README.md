@@ -10,7 +10,7 @@ I'm a full-stack/backend engineer born and raised in San Francisco. I was an ear
 
 - **[What's in Standard?][whatsinstandard]** ([@glacials/whatsinstandard][whatsinstandard-github]), a reference for Magic: The Gathering players
 - **[Splits.io][splits.io]** ([@glacials/splits-io][splits.io-github]), a speedrunning stats tool
-- **[FriendlyUUID][friendly_uuid])**, a stateless URL slug ssytem for Rails
+- **[FriendlyUUID][friendly_uuid]**, a stateless URL slug ssytem for Rails
 - **[Licenseland][licenseland]**, a dual-licensing assistant for open source software
 
 [email]: mailto:ben@twos.dev
