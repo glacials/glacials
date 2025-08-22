@@ -6,13 +6,6 @@ I'm a full-stack/backend engineer born and raised in San Francisco. I was an ear
 
 [@glacials@hachyderm.io][mastodon] | [linkedin.com/in/ben][linkedin]
 
-### Side projects
-
-- **[What's in Standard?][whatsinstandard]** ([@glacials/whatsinstandard][whatsinstandard-github]), a reference for Magic: The Gathering players
-- **[Splits.io][splits.io]** ([@glacials/splits-io][splits.io-github]), a speedrunning stats tool
-- **[FriendlyUUID][friendly_uuid]**, a stateless URL slug system for Rails
-- **[Licenseland][licenseland]**, a dual-licensing assistant for open source software
-
 [email]: mailto:ben@twos.dev
 [friendly_uuid]: https://github.com/glacials/friendly_uuid
 [housebot-github]: https://github.com/glacials/housebot
