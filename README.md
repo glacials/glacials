@@ -1,11 +1,23 @@
 ## I'm Ben 👋
 
-I'm a full-stack/backend engineer born and raised in San Francisco. I was an early employee at Twitch and I've worked on everything from social networks to authentication-as-a-service. I live in Seattle with my spouse [@gwander][summer].
+I'm a full-stack/backend engineer born and raised in San Francisco and living in Seattle with my spouse [@gwander][summer].
+I'm a photographer and a retired speedrunner.
 
-[🧰 twos.dev][website] | [📧 Email][email] | [📄 CV][resume]
+### Homepage
 
-[@glacials@hachyderm.io][mastodon] | [linkedin.com/in/ben][linkedin]
+I post photos and blog entries at my website, [`twos.dev`][website].
+You can email me to say hello at [`ben@twos.dev`][email].
 
+### Socials
+I don't use social media much anymore,
+but here you go:
+
+- Bluesky: [`@twos.dev`][bluesky]
+- Mastodon: [`@glacials@hachyderm.io`][mastodon]
+- LinkedIn: [`linkedin.com/in/ben`][linkedin]
+
+
+[bluesky]: https://bsky.app/profile/twos.dev
 [email]: mailto:ben@twos.dev
 [friendly_uuid]: https://github.com/glacials/friendly_uuid
 [housebot-github]: https://github.com/glacials/housebot
@@ -24,8 +36,8 @@ I'm a full-stack/backend engineer born and raised in San Francisco. I was an ear
 [twitter]: https://twitter.com/glcls
 [twitch]: https://twitch.tv
 [twitch-github]: https://github.com/twitchtv
+[website]: https://twos.dev
 [whatsinstandard]: https://whatsinstandard.com
 [whatsinstandard-github]: https://github.com/glacials/whatsinstandard
 [yourbase]: https://yourbase.io
 [yourbase-github]: https://github.com/yourbase
-[website]: https://twos.dev
