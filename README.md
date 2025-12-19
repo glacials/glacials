@@ -1,21 +1,11 @@
 ## I'm Ben 👋
 
 I'm a full-stack/backend engineer born and raised in San Francisco and living in Seattle with my spouse [@gwander][summer].
-I'm a photographer and a retired speedrunner.
+I'm a photographer and retired speedrunner.
 
 ### Homepage
 
 I post photos and blog entries at my website, [`twos.dev`][website].
-You can email me to say hello at [`ben@twos.dev`][email].
-
-### Socials
-I don't use social media much anymore,
-but here you go:
-
-- Bluesky: [`@twos.dev`][bluesky]
-- Mastodon: [`@glacials@hachyderm.io`][mastodon]
-- LinkedIn: [`linkedin.com/in/ben`][linkedin]
-
 
 [bluesky]: https://bsky.app/profile/twos.dev
 [email]: mailto:ben@twos.dev
